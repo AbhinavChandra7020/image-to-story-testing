@@ -2,7 +2,6 @@ __pycache__/
 *.pyc
 *.pyo
 result.txt
-*.txt
 venv/
 env/
 .DS_Store
